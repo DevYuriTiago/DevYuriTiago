@@ -1,7 +1,7 @@
 # Olá, eu sou Yuri Vasconcellos 👋
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-JpCy71b98uXngXoR5yPeij?se=2025-02-19T19%3A55%3A37Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D54a21a19-4b16-49f8-a958-a3d9b8445b0a.webp&sig=sz4Pf3PozHxpV0Pgah7H8GHhhryBh5EbypG1W4V6e%2Bc%3D" alt="Banner Tecnológico" style="max-width:100%; border-radius:10px;" />
+  <img src="https://files.oaiusercontent.com/file-64R1TXALU5Xx8ZfJaTBdQi?se=2025-02-19T20%3A03%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dee19c0bb-20f6-463f-9b83-5d843fe8c4a8.webp&sig=ISF5wUVtciyiaFGHWaZr/tNI4AsHioYURF329cQs/Ms%3D" alt="Banner Tecnológico" style="max-width:100%; max-height:50%; border-radius:10px;" />
 </p>
 
 ---
