@@ -37,8 +37,8 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, especializado em **
         <img src="https://via.placeholder.com/250?text=Projeto+1" alt="Projeto 1" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);" />
       </a>
       <br>
-      <b>Landing Page AI</b>
-      <p>Plataforma interativa com IA para automação de processos.</p>
+      <b>Landing Page ebook</b>
+      <p>Pagina de vendas altamente tecnologica e responsiva</p>
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/seu_usuario/projeto2" target="_blank">
