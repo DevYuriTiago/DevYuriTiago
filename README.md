@@ -1,7 +1,7 @@
 # Olá, eu sou Yuri Vasconcellos 👋
 
 <p align="center">
-  <img src="https://i.ibb.co/nqZrGHDs/technology-banner.png" alt="Banner Tecnológico" style="max-width:100%; max-height:50%; border-radius:10px;" />
+  <img src="https://i.ibb.co/ZRtdjnh6/technology-banner.png" alt="technology-banner" style="max-width:100%; max-height:50%; border-radius:10px;" />
 </p>
 
 ---
