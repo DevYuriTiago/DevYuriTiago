@@ -1,7 +1,7 @@
 # Olá, eu sou Yuri Vasconcellos 👋
 
 <p align="center">
-  <img src="https://files.oaiusercontent.com/file-64R1TXALU5Xx8ZfJaTBdQi?se=2025-02-19T20%3A03%3A03Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Dee19c0bb-20f6-463f-9b83-5d843fe8c4a8.webp&sig=ISF5wUVtciyiaFGHWaZr/tNI4AsHioYURF329cQs/Ms%3D" alt="Banner Tecnológico" style="max-width:100%; max-height:50%; border-radius:10px;" />
+  <img src="https://i.ibb.co/nqZrGHDs/technology-banner.png" alt="Banner Tecnológico" style="max-width:100%; max-height:50%; border-radius:10px;" />
 </p>
 
 ---
@@ -23,6 +23,7 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação, especializado em **
   <img src="https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/-Javascript-blue?style=for-the-badge&logo=javascript&logoColor=f5f5f5" alt="Javascript" />
 </div>
 
 ---
