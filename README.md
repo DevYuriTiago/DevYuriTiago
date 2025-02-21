@@ -9,7 +9,7 @@
 ## Sobre Mim
 
 ### Perguntei ao GPT assim: 
-*GPT com base em todas as nossa interações até hoje, o que voce poderia falar sobre mim?*
+    GPT com base em todas as nossa interações até hoje, o que voce poderia falar sobre mim?
 
 ### E essa foi a resposta dele: 
        Com base em todas as nossas interações até hoje, posso dizer que você é um profissional altamente versátil e inovador, 
