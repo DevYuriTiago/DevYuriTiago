@@ -10,14 +10,30 @@
 
 ### Perguntei ao GPT assim: 
 *GPT com base em todas as nossa interações até hoje, o que voce poderia falar sobre mim?*
+
 ### E essa foi a resposta dele: 
-Com base em todas as nossas interações até hoje, posso dizer que você é um profissional altamente versátil e inovador, com grande experiência em desenvolvimento de software, liderança técnica e automação. Seu foco principal é a criação de soluções robustas e eficientes, aplicando metodologias ágeis, padrões de arquitetura e boas práticas de programação.
-Você tem forte domínio em tecnologias como Flutter, C#, .NET, Python e SQL, além de utilizar n8n, Power Automate e Firebase para automação e integração de sistemas. Seu trabalho envolve desenvolvimento web e mobile, extração e manipulação de dados, IA aplicada a finanças e automações, e a criação de plataformas interativas, como sua futura plataforma de ensino online.
-Além de seu papel técnico, você tem uma posição de coordenação e busca sempre otimizar processos, justificar estratégias e impressionar seus superiores com design bem elaborado e performance otimizada. Você também demonstra interesse em ensinar e educar sobre IA, engenharia de prompts e tecnologia, seja para colegas de trabalho ou para um público mais amplo.
-Seu lado empreendedor é evidente, com iniciativas como a venda de PDFs na Kiwify, o desenvolvimento de um visualizador de documentos seguro, e a ideia de transformar seu conhecimento em uma plataforma de ensino própria. Além disso, você tem uma preocupação forte com segurança e proteção de conteúdo, implementando medidas como bloqueios contra cópia e inspeção de arquivos.
-Por fim, você valoriza organização e versionamento, utilizando Git, estruturando seu trabalho em features, tasks e subtasks, e sempre buscando aprender de forma prática e interativa. Sua abordagem é estratégica e focada em inovação, sempre alinhada com as tendências tecnológicas e as melhores práticas do mercado.
-Se eu pudesse resumir: você é um líder técnico, desenvolvedor experiente, educador e inovador, com um olhar estratégico para tecnologia e negócios. 🚀
----
+       Com base em todas as nossas interações até hoje, posso dizer que você é um profissional altamente versátil e inovador, 
+    com grande experiência em desenvolvimento de software, liderança técnica e automação. Seu foco principal é a criação de 
+    soluções robustas e eficientes, aplicando metodologias ágeis, padrões de arquitetura e boas práticas de programação.
+       Você tem forte domínio em tecnologias como Flutter, C#, .NET, Python e SQL, além de utilizar n8n, Power Automate e Firebase 
+    para automação e integração de sistemas. Seu trabalho envolve desenvolvimento web e mobile, extração e manipulação de dados, 
+    IA aplicada a finanças e automações, e a criação de plataformas interativas, como sua futura plataforma de ensino online.
+       Além de seu papel técnico, você tem uma posição de coordenação e busca sempre otimizar processos, justificar estratégias 
+    e impressionar seus superiores com design bem elaborado e performance otimizada. Você também demonstra interesse em ensinar 
+    e educar sobre IA, engenharia de prompts e tecnologia, seja para colegas de trabalho ou para um público mais amplo.
+       Seu lado empreendedor é evidente, com iniciativas como a venda de PDFs na Kiwify, o desenvolvimento de um visualizador 
+    de documentos seguro, e a ideia de transformar seu conhecimento em uma plataforma de ensino própria. Além disso, você tem uma 
+    preocupação forte com segurança e proteção de conteúdo, implementando medidas como bloqueios contra cópia e inspeção de arquivos.
+       Por fim, você valoriza organização e versionamento, utilizando Git, estruturando seu trabalho em features, tasks e subtasks, 
+    e sempre buscando aprender de forma prática e interativa. Sua abordagem é estratégica e focada em inovação, sempre alinhada 
+    com as tendências tecnológicas e as melhores práticas do mercado.
+    
+    Se eu pudesse resumir: você é um líder técnico, desenvolvedor experiente, educador e inovador, com um olhar estratégico para tecnologia e negócios.*<br>
+<br>
+
+### Sou suspeito pra falar, mas acho que ele acertou em cheio.
+<br>
+
 
 ## Tecnologias & Habilidades
 
