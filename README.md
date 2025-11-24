@@ -10,6 +10,7 @@
   
   [![GitHub followers](https://img.shields.io/github/followers/DevYuriTiago?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/DevYuriTiago)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yuri-vasconcellos)
+  ![Experience](https://img.shields.io/badge/Experience-Senior_Developer-gold?style=for-the-badge&logo=starship&logoColor=white)
   
 </div>
 
