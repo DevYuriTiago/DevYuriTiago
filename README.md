@@ -230,10 +230,10 @@ mindmap
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri_Vasconcellos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-vasconcellos)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuri_Vasconcellos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yuri-tiago/)
   [![GitHub](https://img.shields.io/badge/GitHub-DevYuriTiago-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DevYuriTiago)
   [![Email](https://img.shields.io/badge/Email-Entre_em_contato-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuri@example.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visite_meu_site-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visite_meu_site-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prompts360.com.br)
   
 </div>
 
