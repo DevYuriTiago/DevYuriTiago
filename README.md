@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=DevYuriTiago&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
   
   [![GitHub followers](https://img.shields.io/github/followers/DevYuriTiago?style=for-the-badge&logo=github&label=Followers&color=blue)](https://github.com/DevYuriTiago)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yuri-vasconcellos)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dev-yuri-tiago/)
   ![Experience](https://img.shields.io/badge/Experience-Senior_Developer-gold?style=for-the-badge&logo=starship&logoColor=white)
   
 </div>
